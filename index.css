@@ -1,0 +1,25 @@
+
+
+.my-nav{
+    margin-left: 20px;
+}
+
+.my-logo img{
+    width: 100px;
+}
+
+
+.my-size{
+    /* font-size: 100px; */
+    border: 2px;
+    border-color: black;
+    background-color: aquamarine;
+    margin: 2px;
+
+}
+
+.no-size{
+    border: 2px;
+    border-color: black;
+    background-color: purple;
+}
